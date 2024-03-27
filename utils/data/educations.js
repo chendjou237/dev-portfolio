@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master Degree",
+    duration: "2024 - Present",
+    institution: "THE ICT UNIVERSITY",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor Degree",
+    duration: "2020 - 2023",
+    institution: "THE ICT UNIVERSITY",
   },
   {
     id: 3,
+    title: "Higher Secondary Certificate",
+    duration: "2018 - 2020",
+    institution: "UNIVERSITY OF YAOUNDE 1 ",
+  },
+  {
+    id: 4,
     title: "Secondary School Certificate",
     duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    institution: "HONOR BILINGUAL COMPLEX",
   }
 ]

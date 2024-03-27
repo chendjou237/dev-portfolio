@@ -1,20 +1,38 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Head of Tech Department',
+    company: "ANORA Breast Cancer Research Foundation",
+    duration: "(Sept 2023 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: 'Chief Technology Officer',
+    company: "CMK Digital",
+    duration: "(Mai 2023 - April 2024)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: 'Head of Tech Department',
+    company: "ANORA Breast Cancer Research Foundation",
+    duration: "(Sept 2023 - Present)"
+  },
+  {
+    id: 4,
+    title: 'Software Engineer I',
+    company: "Seven GPS.",
+    duration: "(Jan 2023 - Juin 2023)"
+  },
+  {
+    id: 5,
+    title: "mobile app developer",
+    company: "Einchird Technologies",
+    duration: "(Jul 2022 - Jan 2023)"
+  },
+  {
+    id: 6,
+    title: "App development mentor",
+    company: "The ICT university STEM program",
+    duration: "(August 2022 - October 2022)"
   }
 ]
