@@ -4,8 +4,9 @@ import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
+
     {
-        id: 1,
+        id: 5,
         name: 'EJ ejvent (Decoration Reservation Web app) and admin dashboard for owner',
         description: "EJ Event is a premier decoration reservation platform designed to streamline the booking process for a wide range of decoration items and services tailored to your events. Our intuitive site ensures a hassle-free experience, making it easier than ever to bring your event's vision to life",
         tools: ['Next js', 'sentry', 'clerk Auth', 'vercel', 'github actions', 'resend', 'postgresql', 'firebase storage', 'stripe'],
@@ -45,7 +46,7 @@ export const projectsData = [
         image: realEstate,
     },
     {
-        id: 5,
+        id: 1,
         name: 'Innovschool',
         description: 'My team built an school management app using React as Front and Express springsboot for backend, with a Mongodb database. We used Express, Typescript, OpenAI, Replicate, Stripe, and pr to develop . We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
         tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],

@@ -1,10 +1,10 @@
 export const personalData = {
   name: "CHENDJOU HONORE",
-  profile: '/profile.jpg',
+  profile: '/my_pic.HEIC',
   designation: "Software Engineer",
   description: "My name is CHENDJOU HONORE. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'chenxhenor@gmail.com',
-  phone: '+237690596606',
+  phone: '+237650903784',
   address: 'Mobile Omnisport, Rue 1414 ',
   github: 'https://github.com/chendjou237',
   facebook: 'https://www.instagram.com/iamchen2023/',

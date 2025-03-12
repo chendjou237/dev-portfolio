@@ -8,8 +8,8 @@ export const experiences = [
   {
     id: 2,
     title: 'Chief Technology Officer',
-    company: "CMK Digital",
-    duration: "(Mai 2023 - April 2024)"
+    company: "CMK Digital Innovation SARL",
+    duration: "(Mai 2023 - PRESENT)"
   },
   {
     id: 3,
