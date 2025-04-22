@@ -3,13 +3,13 @@ export const educations = [
     id: 1,
     title: "Master Degree",
     duration: "2024 - Present",
-    institution: "THE ICT UNIVERSITY",
+    institution: "KEYCE ACADEMY",
   },
   {
     id: 2,
     title: "Bachelor Degree",
     duration: "2020 - 2023",
-    institution: "THE ICT UNIVERSITY",
+    institution: "KEYCE ACADEMY",
   },
   {
     id: 3,
