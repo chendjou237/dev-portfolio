@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'honorchendjou@gmail.com',
-    phone: '+237682705592',
+    phone: '+237650903784',
     address: 'Total Ngousso, Rue 1221 ',
     github: 'https://github.com/chendjou237',
     facebook: 'https://www.instagram.com/iamchen2023/',
