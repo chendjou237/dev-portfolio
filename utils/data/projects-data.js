@@ -4,7 +4,26 @@ import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
-
+    {
+        id: 7,
+        name: 'Honor Bilingual Complex Website',
+        description: 'A comprehensive website developed for Honor Bilingual Complex, showcasing their educational offerings and institutional information.',
+        tools: ['NextJS', 'Tailwind CSS', 'Vercel'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: 'honorbilingualcomplex.vercel.app',
+        image: travel,
+    },
+    {
+        id: 8,
+        name: 'InnovBusiness - Offline-Capable POS System',
+        description: 'A Point of Sale (POS) and inventory management system designed for local stores in Cameroon, featuring offline functionality to ensure business continuity during internet outages.',
+        tools: ['Laravel','Hostinger', 'vuejs',   'Offline Storage', 'POS Integration', 'Inventory Management',],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: 'innovbusiness.vercel.app',
+        image: crefin,
+    },
     {
         id: 5,
         name: 'EJ ejvent (Decoration Reservation Web app) and admin dashboard for owner',
@@ -52,7 +71,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
         code: '',
         role: 'Full Stack Developer',
-        demo: '',
+        demo: 'cmkdigitalinnovation.com',
         image: realEstate,
     },
     {
